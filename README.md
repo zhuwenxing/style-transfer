@@ -80,8 +80,8 @@
 - [Style2Paint]( https://style2paints.github.io/README_zh)
 - [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
 - [Fast Photo Style Transfer](https://github.com/NVIDIA/FastPhotoStyle)
-
-
+- [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization)
+- [Fully Adversarial Mosaics](https://github.com/zalandoresearch/famos)
 
 ### 深度学习框架入门
 
